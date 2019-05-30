@@ -1,0 +1,28 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+.container {
+  height:100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background:#ecebeb;
+  font-family: "Raleway Thin", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  padding: 0 32px;
+  color: #424242;
+}
+
+.typed {
+  color:#fdb04c;
+  background:black;
+}
+
+.container img {
+  width:60px;
+  margin: 50px auto;
+}
